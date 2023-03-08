@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contributions
+🤗 Transformers
+- [wav2vec2 pretrain example](https://github.com/huggingface/transformers/pull/17326)
+- [DataCollatorCTCWithPadding](https://github.com/huggingface/transformers/pull/19369)
